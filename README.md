@@ -1,4 +1,5 @@
-<h1>Class Task 2 - your first web page (in this class): </h1>
+<h1> WEEK 1 </h1>
+<h2>Class Task 2 - your first web page (in this class): </h2>
 
 Create an index.html file in your 'week_1' folder
 
@@ -8,7 +9,7 @@ styling & organising a poem, song lyrics, book fragment, etc.
 Think about how you want to represent your personality or the selected text as a web page
 use CSS text styling elements, incl. font-face, font, colours, etc.
 
-<h1> Task (weekly task):<h1>
+<h2> Task (weekly task):</h2>
 
 Make sure you've finished the task from Hr 2, as you'll need it to complete this task. Finish it BEFORE looking at the accessibility resources & style it however your like.
 
@@ -25,3 +26,13 @@ In the documentation, include ~200 words on:
 screenshots of the different page versions
 a description of what you did
 a reflection on how the accessibility & readability of your page changed.
+
+<h1> WEEK 2 </h1>
+<h1> WEEK 3 </h1>
+<h1> WEEK 4 </h1>
+<h1> WEEK 5 </h1>
+<h1> WEEK 6 </h1>
+<h1> WEEK 7 </h1>
+<h1> WEEK 8 </h1>
+<h1> WEEK 9 </h1>
+
