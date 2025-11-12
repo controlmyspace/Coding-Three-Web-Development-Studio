@@ -1,4 +1,4 @@
-<h1> Task (weekly task):</h1>
+<h1> Week 1 Task </h1>
 
 Create an index.html file in your 'week_1' folder
 
