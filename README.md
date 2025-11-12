@@ -1,4 +1,4 @@
-<h1> Coding Three WebDev Weekly Tasks</h1>
+<h1> Weekly Tasks</h1>
 
 <h2> WEEK 1 </h2>
 
@@ -24,26 +24,23 @@ screenshots of the different page versions
 a description of what you did
 a reflection on how the accessibility & readability of your page changed.
 
-<h2> WEEK 2 </h2>
+<h1> Week 2 Task </h1>
 Use hyperlinks in a creative/artistic context
-
 Create a mini-website that uses hyperlinks in an artistic way. Think about how we can use hyperlinks as a tool for expression. For example:
 
-redirects in an infinite loop, 
-write a poem using hyperlinks, or create an archive for resources,
-an interactive text-based / RPG game,
-a non-linear novel or story,
-a mini compendium of knowledge on a selected topic.
-feel free to explore more creative potentials of hyperlinks. 
+- redirects in an infinite loop, write a poem using hyperlinks
+- an archive for resources
+- an interactive text-based / RPG game
+- a non-linear novel or story
+- a mini compendium of knowledge on a selected topic
+
+Feel free to explore more creative potentials of hyperlinks.
 
 <h2> WEEK 3 </h2>
 Using only HTML and CSS - draw a self-portrait
 You are free to interpret this creatively
 
 <h2> WEEK 4 </h2>
-Task:
-
-Intro video:
 Watch and follow at least one of these tutorials on Grid systems in Figma.
 Design-focused
 https://www.youtube.com/watch?v=HcQ6Hd7y-ew
@@ -83,13 +80,13 @@ design a webpage that functions as a clock. Think about creative ways to represe
 
 Optional prompts:
 
-What if your clock was a growing tree?
-What if time was represented through weather?
-What if the webpage was breathing?
-What if colors had a conversation throughout the day?
-What if time was a landscape that never repeats?
-What if fonts got more tired as the day went on?
-What if the page slowly filled with water?
+- What if your clock was a growing tree?
+- What if time was represented through weather?
+- What if the webpage was breathing?
+- What if colors had a conversation throughout the day?
+- What if time was a landscape that never repeats?
+- What if fonts got more tired as the day went on?
+- What if the page slowly filled with water?
 
 Try to code your design. I appreciate some designs might be bold or advanced - if you know how to code it, that's great! If you don't think you can figure it out within a reasonable time, feel free to simplify it.
 
