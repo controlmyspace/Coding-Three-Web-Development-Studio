@@ -1,5 +1,6 @@
-<h1> WEEK 1 </h1>
-<h2>Class Task 2 - your first web page (in this class): </h2>
+<h1> Coding Three WebDev Weekly Tasks</h1>
+
+<h2> WEEK 1 </h2>
 
 Create an index.html file in your 'week_1' folder
 
@@ -8,10 +9,6 @@ intro about yourself,
 styling & organising a poem, song lyrics, book fragment, etc.
 Think about how you want to represent your personality or the selected text as a web page
 use CSS text styling elements, incl. font-face, font, colours, etc.
-
-<h2> Task (weekly task):</h2>
-
-Make sure you've finished the task from Hr 2, as you'll need it to complete this task. Finish it BEFORE looking at the accessibility resources & style it however your like.
 
 Make a copy of the task from Hr 2. Make at least 1 new version of it and make the text easy to read according to the guidelines from resources below. Think about:
 font size,
@@ -27,12 +24,11 @@ screenshots of the different page versions
 a description of what you did
 a reflection on how the accessibility & readability of your page changed.
 
-<h1> WEEK 2 </h1>
-<h1> WEEK 3 </h1>
-<h1> WEEK 4 </h1>
-<h1> WEEK 5 </h1>
-<h1> WEEK 6 </h1>
-<h1> WEEK 7 </h1>
-<h1> WEEK 8 </h1>
-<h1> WEEK 9 </h1>
+<h2> WEEK 2 </h2>
+<h2> WEEK 3 </h2>
+<h2> WEEK 4 </h2>
+<h2> WEEK 5 </h2>
+<h2> WEEK 6 </h2>
+<h2> WEEK 7 </h2>
+<h2> WEEK 8 </h2>
 
