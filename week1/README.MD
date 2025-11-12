@@ -1,4 +1,4 @@
-<h1>Class Task 2 - your first web page (in this class): </h1>
+<h1> Task (weekly task):</h1>
 
 Create an index.html file in your 'week_1' folder
 
@@ -7,8 +7,6 @@ intro about yourself,
 styling & organising a poem, song lyrics, book fragment, etc.
 Think about how you want to represent your personality or the selected text as a web page
 use CSS text styling elements, incl. font-face, font, colours, etc.
-
-<h1> Task (weekly task):<h1>
 
 Make sure you've finished the task from Hr 2, as you'll need it to complete this task. Finish it BEFORE looking at the accessibility resources & style it however your like.
 
