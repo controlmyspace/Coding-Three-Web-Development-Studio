@@ -24,7 +24,7 @@ screenshots of the different page versions
 a description of what you did
 a reflection on how the accessibility & readability of your page changed.
 
-<h1> Week 2 Task </h1>
+<h2> WEEK 2 </h2>
 Use hyperlinks in a creative/artistic context
 Create a mini-website that uses hyperlinks in an artistic way. Think about how we can use hyperlinks as a tool for expression. For example:
 
