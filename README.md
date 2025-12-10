@@ -113,6 +113,7 @@ Try unexpected placements, orientations, or combinations of form controls.
 Using GSAP techniques from this week's class, create a scrollytelling website to design and build a story about on object 
 
 <h4>Learning Objectives:</h4>
+
 - Demonstrate advanced technical skills by using GSAP and ScrollTrigger to create smooth, interactive scroll-based animations.
 - Apply GSAP techniques to design and animate a scrollytelling experience that communicates a cohesive narrative.
 - Build a functional and visually engaging website that effectively showcases the life and significance of a personal object.
