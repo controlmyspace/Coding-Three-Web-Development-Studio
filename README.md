@@ -113,15 +113,15 @@ Try unexpected placements, orientations, or combinations of form controls.
 Using GSAP techniques from this week's class, create a scrollytelling website to design and build a story about on object 
 
 <h4>Learning Objectives:</h4>
-• Demonstrate advanced technical skills by using GSAP and ScrollTrigger to create smooth, interactive scroll-based animations.
-• Apply GSAP techniques to design and animate a scrollytelling experience that communicates a cohesive narrative.
-•  Build a functional and visually engaging website that effectively showcases the life and significance of a personal object.
-• Develop a creative narrative about a personal object, considering its origins, transformations, and emotional journey.
-• Utilize animations to represent key moments and changes in the object's history, emphasizing its sentimental or symbolic value.
-• Integrate interactive elements, such as hover effects or clickable features, to enhance user engagement and storytelling.
-• Explore and experiment with advanced animation techniques, such as timelines and staggered effects, to add depth to the project.
-•  Ensure the website design aligns with user experience principles, balancing interactivity with accessibility and readability.
-•  Reflect critically on the object's representation and its ability to convey personal or cultural significance to an audience.
+•Demonstrate advanced technical skills by using GSAP and ScrollTrigger to create smooth, interactive scroll-based animations.
+•Apply GSAP techniques to design and animate a scrollytelling experience that communicates a cohesive narrative.
+•Build a functional and visually engaging website that effectively showcases the life and significance of a personal object.
+•Develop a creative narrative about a personal object, considering its origins, transformations, and emotional journey.
+•Utilize animations to represent key moments and changes in the object's history, emphasizing its sentimental or symbolic value.
+•Integrate interactive elements, such as hover effects or clickable features, to enhance user engagement and storytelling.
+•Explore and experiment with advanced animation techniques, such as timelines and staggered effects, to add depth to the project.
+• Ensure the website design aligns with user experience principles, balancing interactivity with accessibility and readability.
+•Reflect critically on the object's representation and its ability to convey personal or cultural significance to an audience.
 
 1. What is the object?
 What personal object holds significant meaning to you?
