@@ -97,7 +97,79 @@ Further: Take it a step further - make a website that gradually changes over tim
 Technical hint: Look into the Date() function and setInterval
 
 <h2> WEEK 7 </h2>
+<h3>HTML Form Study</h3>
+
+Use HTML form elements (inputs, buttons, sliders, etc.) to construct abstract, generative, or expressive visual compositions.
+
+Experiment with the placement, size, color, and interaction of form elements to generate unique aesthetics.
+Incorporate JavaScript to make your form-based designs interactive and responsive to user interaction, or have the interactions automatically happen with timing functions.
+For example, have form elements trigger animations, transformations, or other dynamic effects.
+Try unexpected placements, orientations, or combinations of form controls.
+
 
 <h2> WEEK 8 </h2>
+<h3>Life of a Personal Object</h3>
 
+Using GSAP techniques from this week's class, create a scrollytelling website to design and build a story about on object 
 
+<h4>Learning Objectives:</h4>
+- Demonstrate advanced technical skills by using GSAP and ScrollTrigger to create smooth, interactive scroll-based animations.
+- Apply GSAP techniques to design and animate a scrollytelling experience that communicates a cohesive narrative.
+- Build a functional and visually engaging website that effectively showcases the life and significance of a personal object.
+- Develop a creative narrative about a personal object, considering its origins, transformations, and emotional journey.
+- Utilize animations to represent key moments and changes in the object's history, emphasizing its sentimental or symbolic value.
+- Integrate interactive elements, such as hover effects or clickable features, to enhance user engagement and storytelling.
+- Explore and experiment with advanced animation techniques, such as timelines and staggered effects, to add depth to the project.
+- Ensure the website design aligns with user experience principles, balancing interactivity with accessibility and readability.
+- Reflect critically on the object's representation and its ability to convey personal or cultural significance to an audience.
+
+1. What is the object?
+What personal object holds significant meaning to you?
+Is it something passed down through generations?
+Is it an item with a unique story, like a gift or a meaningful purchase?
+Does the object have sentimental value, or does it represent a specific event or memory?
+2. Think About Its Origins
+Where did the object come from?
+Was it bought, found, or given to you?
+Does it have a history that predates your ownership (e.g., family heirlooms, vintage items)?
+How did it come into your life, and why was it important then?
+3. How Has the Object Changed Over Time?
+Does the object have physical changes (wear and tear, repairs, modifications)?
+Has it evolved in function, use, or significance?
+Are there moments when its appearance or role in your life shifted?
+4. Key Moments in the Object’s Life
+What are the key moments in the object’s "life"?
+Was it involved in any significant events or memories (e.g., a trip, an important moment)?
+Did it serve as a reminder, or provide comfort or inspiration during tough times?
+5. The Object’s Significance in Your Life
+What role does this object play in your life now?
+Does it still serve the same purpose as when you first got it?
+How do you interact with it today?
+Does it still hold the same emotional weight, or has it changed in significance over time?
+6. What Story Does the Object Tell?
+How does this object represent who you are or your experiences?
+Does it symbolize something larger, like a phase of your life or a specific interest or hobby?
+What would people learn about you if they only saw this object?
+7. Animate the Journey of the Object
+How can you visually represent the object’s journey?
+Could you use animation to show the object changing, moving through different environments, or interacting with other objects or people?
+How will you convey its emotional journey (e.g., nostalgia, sentiment, evolution)?
+8. What’s the Impact of the Object on Others?
+Has this object ever been seen by others or shared with anyone?
+How do others perceive it (is it just an object, or does it hold personal significance for others)?
+Has it affected your relationships, or sparked meaningful conversations?
+9. What is the Future of the Object?
+What do you think will happen to the object in the future?
+Will it continue to be passed down or evolve?
+Will its meaning change as time goes on?
+Does it hold any potential to influence or inspire others in the future?
+10. How Can You Make It Interactive?
+Can you create a timeline or animated journey of the object’s life?
+How will you use ScrollTrigger to make the object come to life as users scroll through its history?
+Can you include interactive elements (e.g., clicking or hovering to reveal hidden details or new stories about the object)?
+
+<h2> WEEK 9 </h2>
+no task 
+
+<h2> WEEK 10 </h2>
+last class
