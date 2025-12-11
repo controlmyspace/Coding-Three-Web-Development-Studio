@@ -173,7 +173,8 @@ Can you include interactive elements (e.g., clicking or hovering to reveal hidde
 no task 
 
 <h2> WEEK 10 </h2>
-<img src="<img width="966" height="386" alt="Screenshot 2025-12-11 at 15 06 34" src="https://github.com/user-attachments/assets/5a297a0a-f0e6-410c-9538-e339a9f27b6e" />
+<img src="<img width="966" height="386" alt="Screenshot 2025-12-11 at 15 06 34" src="https://github.com/user-attachments/assets/2466d846-629d-4dec-a91e-0ff81623288d" />
+" />
 " alt="taskweek10" /> <br><br>
 <img src="<img width="950" height="796" alt="Screenshot 2025-12-11 at 15 06 42" src="https://github.com/user-attachments/assets/9ca5ee80-59a3-499a-96d4-4617e4c9d080" />
 " alt="taskweek10" />
